@@ -38,6 +38,7 @@ npm install --save redux react-redux
   
 # Issue
 - [Cannot use without default browser](https://github.com/facebook/react-native/issues/9901)
+- [What is ENOSPC error and how to solve?](https://stackoverflow.com/questions/22475849/node-js-what-is-enospc-error-and-how-to-solve)
 
 # React JS Default
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
