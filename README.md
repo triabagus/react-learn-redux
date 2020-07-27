@@ -32,13 +32,18 @@ npm start
 ```bash
 npm install --save redux react-redux
 ```
+
+#Tools
+- [Redux DevTools](https://chrome.google.com/webstore/detail/redux-devtools/lmhkpmbekcpmknklioeibfkpmmfibljd/related)
  
 # Reference
-- [Youtube(Dev Ed): Redux For Beginner](https://www.youtube.com/watch?v=CVpUuw9XSjY)
+- [Youtube( Dev Ed ): Redux For Beginner](https://www.youtube.com/watch?v=CVpUuw9XSjY)
+- [Github( Zalmoxisus ): REdux DevTools Extension](https://github.com/zalmoxisus/redux-devtools-extension)
   
 # Issue
 - [Cannot use without default browser](https://github.com/facebook/react-native/issues/9901)
 - [What is ENOSPC error and how to solve?](https://stackoverflow.com/questions/22475849/node-js-what-is-enospc-error-and-how-to-solve)
+- [Redux state minim for default](https://stackoverflow.com/questions/57202176/i-am-getting-initialization-error-in-the-following-react-redux-code)
 
 # React JS Default
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
